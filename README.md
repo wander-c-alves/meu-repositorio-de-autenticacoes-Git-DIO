@@ -2,15 +2,11 @@
 
 Repositório de testes de autenticações
 
+1 - Autenticação com senha
 
+2 - Autenticação via token de acesso pessoal
 
-1 - autenticação com senha
+3 - Autenticação via SSH
 
-2 - autenticação via token de acesso pessoal
-
-3 - autenticação via SSH
-
-
-
-4 - Mis um teste
+4 - Mais um teste
 
